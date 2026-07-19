@@ -1,0 +1,6 @@
+{
+  "name": "TouraLuxe",
+  "description": "A bespoke luxury travel booking and itinerary planning application.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
